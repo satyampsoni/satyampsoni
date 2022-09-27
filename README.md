@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm satyam!</h1>
-<h3 align="center">OpenSource Enthusiast!</h3>
 <img src = "https://user-images.githubusercontent.com/94950988/192575507-064e08d7-4440-4b31-bda0-b46ea78de7d0.jpeg">
 
 
