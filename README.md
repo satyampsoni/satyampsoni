@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Front-End Web!**
-
 - 📝 I regularly write articles on [https://hashnode.com/@satyampsoni](https://hashnode.com/@satyampsoni)
 
 - 💬 Ask me about **OpenSource, Front-End and ML.**
