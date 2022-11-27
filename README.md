@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently learning **ML**
+- 🔭 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Front-End Web!**
 
