@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@satyampsoni](https://hashnode.com/@satyampsoni)
 
-- 💬 Ask me about **OpenSource, Front-End and ML.**
+- 💬 Ask me about **OpenSource, Front-End and DevOps.**
 
 - 📫 How to reach me **satyampsoni@gmail.com**
 
