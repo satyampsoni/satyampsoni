@@ -6,4 +6,11 @@ A [Data on Kubernetes community](https://dok.community/) Ambassador and Organize
 I am also actively involved in the communites like Kubernetes, Armada, and CNCF.
 Also I would love to collaborate with multiple open source projects.
 
+## You can also read my blogs.
+* [Diving into Docker: Containerization Simplified](https://satyampsoni.hashnode.dev/diving-into-docker-containerization-simplified)
+* [Armada](https://satyampsoni.hashnode.dev/armada)
+* [From clone to Push](https://satyampsoni.hashnode.dev/from-clone-to-push)
+
+
+
 How to reach me: [Twitter](https://twitter.com/satyampsoni) | [LinkedIn](https://www.linkedin.com/in/satyampsoni/)
