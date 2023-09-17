@@ -7,6 +7,7 @@ I am also actively involved in the communites like Kubernetes, Armada, and CNCF.
 Also I would love to collaborate with multiple open source projects.
 
 ## You can also read my blogs.
+* [CNCF Landscape]:(https://satyampsoni.hashnode.dev/cncf-landscape)
 * [Diving into Docker: Containerization Simplified](https://satyampsoni.hashnode.dev/diving-into-docker-containerization-simplified)
 * [Armada](https://satyampsoni.hashnode.dev/armada)
 * [From clone to Push](https://satyampsoni.hashnode.dev/from-clone-to-push)
