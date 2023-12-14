@@ -1,10 +1,11 @@
 # Hello There 
-I am 19 y/o OpenSource Contributor.
+![WhatsApp Image 2023-12-03 at 2 54 32 PM](https://github.com/satyampsoni/satyampsoni/assets/94950988/924c404c-ec04-4517-806f-1e43d44e91c9)
 
-I mainly Work with GOlang and Python and more into DevOps.
+
+I mainly Work with Golang and Python and more into DevOps.
 A [Data on Kubernetes community](https://dok.community/) Ambassador and Organizer of [CNCF New Delhi Chapter](https://community.cncf.io/new-delhi/).
-I am also actively involved in the communites like Kubernetes, Armada, and CNCF.
-Also I would love to collaborate with multiple open source projects.
+I am an active contributor to Kubernetes.
+
 
 ## You can also read my blogs.
 * [CNCF Landscape](https://satyampsoni.hashnode.dev/cncf-landscape)
